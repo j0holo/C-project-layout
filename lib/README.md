@@ -1,1 +1,1 @@
-Libraries you use for your project.
+Libraries that will be used by this project.

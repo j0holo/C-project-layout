@@ -1,1 +1,1 @@
-Documentation about your program/project.
+Documentation about your project.
