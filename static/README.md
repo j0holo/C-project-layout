@@ -1,1 +1,1 @@
-Static files like textures, images and sounds.
+Files like textures, images and sounds will be stored here.
